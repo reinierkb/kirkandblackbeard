@@ -2,6 +2,10 @@
 @tailwind components;
 @tailwind utilities;
 
+img, svg {
+    display: inline-block;
+}
+
 @layer base {
     @font-face {
         font-family: "SpaceGrotesk";
@@ -52,7 +56,11 @@
     }
 
     header {
-        @apply mb-8;
+        @apply mb-8 pt-8;
+    }
+
+    header p{
+        @apply text-center;
     }
 
     main,
