@@ -10,9 +10,9 @@ As a UX Designer by training and Product Manager by experience, Reinier comes pr
 product management, UX/CX design, prototyping, agile practice, facilitation
 
 ### Three things Reinier worked on
-* [Corona Melder](https://coronadashboard.government.nl/landelijk/coronamelder), the official Dutch COVID-19 notification app that monitored potential infection risk for users in a privacy-first way. Client: Dutch ministry of health (VWS), Reinier lead the team building the product
-* [Funda](https://www.funda.nl), the no. 1 online market place for real estate in The Netherlands Client: Funda, Reinier lead the teams building the mobile apps.
-* [NOS](https://nos.nl), the Dutch BBC News, was one of the first public broadcasters taking digital seriously and transformed towards an omnichannel news provider.  Reinier, as the UX designer of the ‘New Media’ team, redesigned all NOS websites and designed the first iPhone and Android app for the NOS in 2012
+* [CoronaMelder](https://coronadashboard.government.nl/landelijk/coronamelder), the official Dutch COVID-19 notification app that monitored potential infection risk for users in a privacy-first way. Client: Dutch ministry of health (VWS), Reinier lead the team building and releasing the product.
+* [Funda](https://www.funda.nl), the no. 1 online market place for real estate in The Netherlands. Client: Funda, Reinier lead the team building the mobile apps.
+* [NOS](https://nos.nl), the Dutch BBC News, was one of the first public broadcasters taking digital seriously and transformed towards an omnichannel news provider.  Reinier, as the UX designer of the ‘New Media’ team, redesigned all NOS websites and designed the first iPhone and Android app for the NOS in 2012.
 
 > Reinier will always ensure that priorities are set based on the value for the end user and thus on the business value for the organization. He is very goal-oriented and therefore a great initiator and contributor towards a collectively created (product) vision.—Geeske Kloostra, Head of Product, Miele X.   
 
