@@ -2,7 +2,7 @@ const fs = require("fs");
 const path = require("path");
 const htmlmin = require("html-minifier");
 const pluginRss = require("@11ty/eleventy-plugin-rss");
-
+const { EleventyHtmlBasePlugin } = require("@11ty/eleventy");
 
 // module import collections
 const { getAllPosts } = require('./config/collections.js');
@@ -36,6 +36,9 @@ module.exports = function (eleventyConfig) {
     // Filters
     eleventyConfig.addPlugin(require('./config/filters.js'));
 
+    // Work with subdirectories as root
+    eleventyConfig.addPlugin(EleventyHtmlBasePlugin);
+    
     // Collections
     eleventyConfig.addCollection('blogposts', getAllPosts);
 

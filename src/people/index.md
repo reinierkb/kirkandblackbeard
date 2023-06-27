@@ -8,12 +8,12 @@ These are the people of Kirk and Blackbeard
 
 ## [David](/people/david/)
 
-## [Laurens](/people/laurens)
+## [Laurens](/people/laurens/)
 
-## [Antoine](/people/antoine)
+## [Antoine](/people/antoine/)
 
-## [Reinier](/people/reinier)
+## [Reinier](/people/reinier/)
 
-## [Younes](/people/younes)
+## [Younes](/people/younes/)
 
-## [Laura](/people/laura)
+## [Laura](/people/laura/)
