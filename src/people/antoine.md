@@ -19,8 +19,7 @@ product management, data-driven development, strategy development
 ### Other clients/employers:
 ANVA, Nike, De Alliantie, ING, ABANAMRO, Schiphol, Wolters Kluwer, Heineken, GGD Amsterdam, Philips, RBS
 
-
-[LinkedIn](https://www.linkedin.com/in/laurens-de-knijff/)
+[LinkedIn](https://www.linkedin.com/in/antoinedemmenie/)
 
 
 
