@@ -4,16 +4,17 @@ title: People
 eleventyExcludeFromCollections: true
 ---
 
-These are the people of Kirk and Blackbeard
+These are the people of Kirk and Blackbeard:
 
-## [David](/people/david/)
+## [Antoine Demmenie](/people/antoine/)
 
-## [Laurens](/people/laurens/)
+## [Laura Inzaurralde](/people/laura/)
 
-## [Antoine](/people/antoine/)
+## [Reinier Ladan](/people/reinier/)
 
-## [Reinier](/people/reinier/)
+## [David Linssen](/people/david/)
 
-## [Younes](/people/younes/)
+## [Laurens de Knijff](/people/laurens/)
 
-## [Laura](/people/laura/)
+## [Younes Riad](/people/younes/)
+
