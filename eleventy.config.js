@@ -12,6 +12,8 @@ module.exports = function (eleventyConfig) {
     if (process.env.ELEVENTY_PRODUCTION) {
         eleventyConfig.addTransform("htmlmin", htmlminTransform);
     }
+    
+    console.log(process.env);
 
     eleventyConfig.setServerOptions({
         showAllHosts: true,
