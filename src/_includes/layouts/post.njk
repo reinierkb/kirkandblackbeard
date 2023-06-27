@@ -1,0 +1,18 @@
+<!doctype html>
+<html lang="{{ language or metadata.language }}">
+    {% include '../head.njk' %}
+    <body>
+        {% include '../header.njk' %}
+        <main>
+            <article class="single type-article">
+                <h1>{{ title }}</h1>
+                <p class="post-date">
+                    {{ page.date | readablePostDate }} &nbsp;&nbsp;&nbsp;&nbsp;✍️ Reinier Ladan
+                </p>
+                {{ content | safe }}
+            </article>
+        </main>
+        <!-- Current page: {{ page.url | url }} -->
+        {% include '../footer.njk' %}
+    </body>
+</html>

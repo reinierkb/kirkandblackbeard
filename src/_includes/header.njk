@@ -1,0 +1,13 @@
+<header>
+    <nav>
+        <ul class="nav-Menu">
+            {%- for entry in nav %}
+                <li
+                    class="kb-nav-item {{ 'kb-active' if entry.url == page.url }} ">
+                    <!-- {{entry.url}} {{page.url}} -->
+                    <a href="{{ entry.url }}" class="no-underline border-0" aria-label="{{ entry.title }}">{{ entry.title }}</a>
+                </li>
+            {%- endfor %}
+        </ul>
+    </nav>
+</header>

@@ -1,0 +1,18 @@
+<head>
+    <meta charset="utf-8"/>
+    <title>{{ title or metadata.title }}</title>
+    <meta name="generator" content="Eleventy"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <meta name="description" content="{{ description or metadata.description }}"/>
+    <link rel="stylesheet" href="{{ '/site.css' | url }}"/>
+    <link rel="alternate" type="application/rss+xml" href="/feed.xml" title="Kirk and Blackbeard blog"/>
+    {# <link rel="icon" href="/favicon.ico" sizes="any"/>
+    <link rel="icon" href="/icon.svg" type="image/svg+xml"/>
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png"/> #}
+    <meta property="og:title" content="{{ title }}"/>
+    <meta property="og:url" content="{{ metadata.url }}{{ page.url }}"/>
+    {% if description %}
+        <meta property="og:description" content="{{ description }}"/>
+    {% endif %}
+    {% include './head-components/social-image.njk' %}
+</head>

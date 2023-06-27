@@ -1,0 +1,13 @@
+<!doctype html>
+<html lang="{{ language or metadata.language }}">
+    {% include '../head.njk' %}
+    <body>
+        {% include '../header.njk' %}
+        <main>
+            <h1>{{ title }}</h1>
+            {{ content | safe }}
+        </main>
+        <!-- Current page: {{ page.url | url }} -->
+        {% include '../footer.njk' %}
+    </body>
+</html>
