@@ -4,9 +4,7 @@ title: David Linssen
 eleventyExcludeFromCollections: true
 ---
 
-100% bullshit-free and committed to make real and lasting success happen. David always makes sure he has a deep understanding of the domain in order to consistently deliver high-quality results. And once he has that deep understanding, he uses it to elevate you instead of hitting you on the head with it. Not only is he humble and approachable, he also makes sure that the team he is working with has the right positive energy to make magical things happen. Even if it's a hell of a job, he makes it look heavenly easy to accomplish.
-
-Never. A. Dull. Moment.
+100% bullshit-free and committed to make real and lasting success happen, David always makes sure he has a deep understanding of the domain in order to consistently deliver high-quality results. And once he has that deep understanding, he uses it to elevate you instead of hitting you on the head with it. Not only is he humble and approachable, he also makes sure that the team he is working with has the right positive energy to make magical things happen. Even if it's a hell of a job, he makes it look heavenly easy to accomplish.
 
 ### Expertise: 
 product management, strategy development, facilitation, executive coaching, acting
