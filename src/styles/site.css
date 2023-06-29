@@ -276,6 +276,10 @@ img, svg {
         display: inline-block;
     }
 
+    .img-home {
+        aspect-ratio: 1.667;
+    }
+
     .cta-link {
         display: inline-block;
         @apply bg-kb-alt-tint p-4 text-white font-kb-extras no-underline;
