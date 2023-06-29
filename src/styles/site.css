@@ -94,7 +94,6 @@ img, svg {
 
     main p > img {
         @apply mb-4;
-        aspect-ratio: 1.667;
     }
 
     footer {
@@ -271,6 +270,10 @@ img, svg {
     .img-content-group img {
         @apply w-72 shadow-lg;
         display: inline-block;
+    }
+
+    .img-home {
+        aspect-ratio: 1.667;
     }
 
     .cta-link {
