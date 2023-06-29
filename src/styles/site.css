@@ -94,6 +94,7 @@ img, svg {
 
     main p > img {
         @apply mb-4;
+        aspect-ratio: 1.667;
     }
 
     footer {
