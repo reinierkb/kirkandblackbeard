@@ -8,8 +8,6 @@ These are the people of Kirk and Blackbeard:
 
 ## [Antoine Demmenie](/people/antoine/)
 
-## [Laura Inzaurralde](/people/laura/)
-
 ## [Reinier Ladan](/people/reinier/)
 
 ## [David Linssen](/people/david/)

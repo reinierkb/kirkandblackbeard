@@ -17,7 +17,7 @@ pagination:
 {% endif -%} #}
 
 <h1>Full Steam Ahead</h1>
-<p><img src="/images/KB Captains.svg" width="600"></p>
+<p><img src="/images/KB Captains.svg" width="600" alt="Two captains on one ship"></p>
 <p>Great digital leadership is hard to find. If your project or product isn’t heading in the right direction, call someone who knows how to get stuff done.</p>
 <a href="mailto:captain@kirkandblackbeard.com?subject=Calling%20Kirk" >Call Kirk</a>
 
@@ -26,14 +26,13 @@ pagination:
 
 <ul>
     <li><a href="/people/antoine/">Antoine Demmenie</a> - Ahold, Nike</li>
-    <li><a href="/people/laura/">Laura Inzaurralde</a> - ING, WPG, DPG</li>
     <li><a href="/people/reinier/">Reinier Ladan</a> - NOS, VWS, DPG</li>
     <li><a href="/people/david/">David Linssen</a> - BumaStemra, Elsevier Health, Symphony</li>
     <li><a href="/people/laurens/">Laurens de Knijff</a> - BumaStemra, Feelee, SmartOcto</li>
     <li><a href="/people/younes/">Younes Riad</a> - Symphony</li>
 </ul>
 
-<h2>Blog</h2>
+{# <h2>Blog</h2>
 {% for post in postslist -%}
     <article class="in-list type-article">
         <h2>
@@ -47,7 +46,9 @@ pagination:
         {% endif %}
         <div>{{ post.templateContent | safe }}</div>
     </article>
-{%- endfor -%}
+{%- endfor -%} #}
+
+
 {# <ol class="pagination">
     {%- for pageEntry in pagination.pages %}
         <li>

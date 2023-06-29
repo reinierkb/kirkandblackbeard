@@ -10,11 +10,6 @@
 		"url": "/people/"
 	},
 	{
-		"id": "blog",
-		"title": "Blog",
-		"url": "/blog/"
-	},
-	{
 		"id": "contact",
 		"title": "Contact",
 		"url": "/contact/"
