@@ -271,6 +271,15 @@ img, svg {
         @apply w-72 shadow-lg;
         display: inline-block;
     }
+
+    .cta-link {
+        display: inline-block;
+        @apply bg-kb-alt-tint p-4 text-white font-kb-extras no-underline;
+    }
+
+    .cta-link:hover {
+        @apply text-white bg-black;
+    }
 }
 
 @layer utilities {
