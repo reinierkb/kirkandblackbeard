@@ -97,7 +97,7 @@ img, svg {
     }
 
     footer {
-        @apply border-t-4 mt-12 pt-8;
+        @apply border-t-2 mt-12 pt-8;
     }
 
     footer {
