@@ -3,7 +3,7 @@ layout: layouts/base.njk
 title: Antoine Demmenie
 eleventyExcludeFromCollections: true
 ---
-<p><img src="/images/KBicons-klok.jpg" width="150"></p>
+<p><img src="/images/KBicons-klok.jpg" width="150">alt="victorian engraving of a clock"></p>
 As a greybeard in developing digital products, Antoine brings a wealth of experience and a down-to-earth approach to every product team he leads. He aims to avoid busywork, focusing on solving the real problems at hand as fast as the team can manage, often a bit faster.  To deliver agreed results, Antoine will challenge whatever status quo there might be, discuss any elephant in the room and do whatever it takes—with a good sense of what is reasonable and desirable in a specific organization. He has a good eye for team dynamics and never avoids potentially awkward conversations if he believes there’s room for professional growth. As a full-stack product manager, he enjoys working with all kinds of teams, on every part of the product in any type of organization—as long as he can go fast!
 
 ### Expertise: 
