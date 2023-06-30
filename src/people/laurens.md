@@ -25,7 +25,7 @@ product management, data-driven development, leading creative teams.
 ### Side projects:
 - Guest Lecturer, HU University of Applied Sciences Utrecht
 - Co-host Glitch Podcast
-- …
+- Translator for Tunnelblick, Open Source VPN Software
 
 [Web](https://draadloos.pro/index.html)
 [LinkedIn](https://www.linkedin.com/in/laurens-de-knijff/)

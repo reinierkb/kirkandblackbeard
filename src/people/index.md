@@ -4,7 +4,7 @@ title: People
 eleventyExcludeFromCollections: true
 ---
 
-These are the people of Kirk and Blackbeard:
+These are the people of Kirk & Blackbeard:
 
 ## [Antoine Demmenie](/people/antoine/)
 
