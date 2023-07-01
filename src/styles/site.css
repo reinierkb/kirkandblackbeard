@@ -180,7 +180,7 @@ img, svg {
     }
 
     .nav-Menu {
-        @apply flex flex-row gap-4 lg:gap-12;
+        @apply flex flex-row gap-4 lg:gap-12 py-4;
         justify-content: center;
     }
 
