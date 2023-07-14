@@ -21,18 +21,17 @@ As a leader, Zissou has long-wrought close relations with his team members, allo
 
 
 ## Agile Before It Existed
-When pirates capture the Belafonte, Zissou rises above the situation and singlehandedly frees his crew members while chasing the pirates off his ship. And even though the story is set in the 1960s, you can see that Captain Zissou had already adopted an explorative mindset and an agile way of working. Ready to tackle the unknown, he says, “Nobody knows what’s going to happen. And then we film it. That’s the whole concept.”
+When pirates capture the Belafonte, Zissou rises above the situation and singlehandedly frees his crew members while chasing the pirates off his ship. And even though the story is set in the 1960s, you can see that Captain Zissou had already adopted an explorative mindset and an agile way of working. Ready to tackle the unknown, he says, “Nobody knows what’s going to happen. And then we film it. That’s the whole concept.” We can only dream of teams being this open minded.
 
 
 <p><img src="/images/Zissou-mission-hotel.jpg" class="img-home" width="600" alt="Captain Zissou and Ned in the lobby of the Hotel Citroën"></p>
 © 2004 Touchstone Pictures. All rights reserved.
 
 ## A Perfect Leader?
-Far from it. On the Belafonte, there is not a healthy work-life balance, with Zissou requiring 100% dedication to the cause. And it’s unclear if Team Zissou is the open, LGBTQ+-friendly workplace that today’s talent requires. Additionally, with two crew members dying over the course of two expeditions, health and safety standards seem to be up for improvement. Despite all this, Steve Zissou knows how to deliver. He manages to rescue almost his entire crew and his nemesis, completes the documentary along the way, which is received with success, resulting in a successful mission, a happy team, and a transformed Zissou himself.
+Far from it. On the Belafonte, there is not a healthy work-life balance, with Zissou requiring 100% dedication to the cause. And it’s unclear if Team Zissou is the open, LGBTQ+-friendly workplace that today’s talent requires. Additionally, with two crew members dying over the course of two expeditions, health and safety standards seem to be up for improvement. Despite all this, Steve Zissou knows how to deliver. He manages to rescue almost his entire crew and his nemesis, completes the documentary along the way, which is received with success, resulting in a successful mission, a happy team, and a transformed Zissou himself. That's what we would call a Captain of Done.
 
 <p><img src="/images/Zissou-team-transformed.jpg" class="img-home" width="600" alt="A happy Team Zissou walking towards the Belafonte "></p>
 © 2004 Touchstone Pictures. All rights reserved.
 
 ### Not convinced? 
-Go watch or re-watch “The Life Aquatic With Steve Zissou” on Disney+ or Amazon Prime Video and tell me what you think. And if you want a more realistic conversation on modern leadership for digital-driven organizations, call Kirk & Blackbeard right now.  
-<a href="mailto:captain@kirkandblackbeard.com?subject=Calling%20Kirk" class="cta-link">Call Kirk</a>
+Go watch or re-watch “The Life Aquatic With Steve Zissou” on Disney+ or Amazon Prime Video and tell me what you think. And if you want a more realistic conversation on modern leadership for digital-driven organizations, [call Kirk & Blackbeard right now.](mailto:captain@kirkandblackbeard.com?subject=Calling%20Kirk) 
