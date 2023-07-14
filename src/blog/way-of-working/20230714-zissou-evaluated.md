@@ -15,10 +15,10 @@ If you don’t look close enough, you might mistake Steve Zissou—the protagoni
 © 2004 Touchstone Pictures. All rights reserved.
 
 ## Leading by Example
-As a leader, Zissou has long-wrought close relations with his team members, allowing him to blindly trust their capabilities. The team may carry his name, so he always makes sure that any success is seen not as a personal victory but as Team Zissou’s success. So when his leadership is challenged, Zissou remains open-minded and never makes it too personal: “The first thing that goes through a captain’s head when he hears there’s low morale goin’ around is: ‘What’d I do? Is it all my fault?’ Well, he’s probably right. (…) Look, if you’re not against me… don’t cross this line. If yes, do. I love you all.”
+As a leader, Zissou has long-wrought close relations with his team members, allowing him to blindly trust their capabilities. The team may carry his name, however he always makes sure that success is seen not as a personal victory but as Team Zissou’s success. So when his leadership is challenged, Zissou remains open-minded and never makes it too personal: “The first thing that goes through a captain’s head when he hears there’s low morale goin’ around is: ‘What’d I do? Is it all my fault?’ Well, he’s probably right. (…) Look, if you’re not against me… don’t cross this line. If yes, do. I love you all.”
 
-<p><img src="/images/Zissou-deck-interview.jpg" class="img-home" width="600" alt="Captain Zissou in an interview on the deck of the Belafonte"></p>
-© 2004 Touchstone Pictures. All rights reserved.
+<p><img src="/images/Zissou-deck-interview.jpg" class="img-home" width="600" alt="Captain Zissou in an interview on the deck of the Belafonte""© 2004 Touchstone Pictures. All rights reserved."></p>
+
 
 ## Agile Before It Existed
 When pirates capture the Belafonte, Zissou rises above the situation and singlehandedly frees his crew members while chasing the pirates off his ship. And even though the story is set in the 1960s, you can see that Captain Zissou had already adopted an explorative mindset and an agile way of working. Ready to tackle the unknown, he says, “Nobody knows what’s going to happen. And then we film it. That’s the whole concept.”
