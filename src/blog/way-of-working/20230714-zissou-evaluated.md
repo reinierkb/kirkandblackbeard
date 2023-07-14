@@ -1,7 +1,7 @@
 ---
-title: Captain Evaluated: Steve Zissou
+title: Captain Evaluated - Steve Zissou
 date: 2023-07-14T15:20
-socialPreview: Captain Evaluated: Steve Zissou, can fictional heroes help us lead in the 21st century?
+socialPreview: Captain Evaluated - Steve Zissou, can fictional heroes help us lead in the 21st century?
 author: David Linssen
 ---
 
