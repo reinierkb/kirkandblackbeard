@@ -5,7 +5,6 @@ socialPreview: Steve Zissou, Captain Evaluated
 author: David Linssen
 ---
 
-# Steve Zissou, Captain Evaluated
 <p><img src="/images/Zissou-sub-interior.jpg" class="img-home" width="600" alt="Team Zissou in the mini-sub, chasing the Jaguar Shark"></p>
 © 2004 Touchstone Pictures. All rights reserved.
 
