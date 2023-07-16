@@ -5,7 +5,7 @@ socialPreview: Captain Evaluated - Steve Zissou, can fictional heroes help us le
 author: David Linssen
 ---
 
-<p><img src="/images/Zissou-sub-interior.jpg" class="img-home" width="900" alt="Team Zissou in the mini-sub, chasing the Jaguar Shark"></p>
+<p><img src="/images/Zissou-sub-interior-edit.jpg" class="img-home" width="600" alt="Team Zissou in the mini-sub, chasing the Jaguar Shark"></p>
 ### © 2004 Touchstone Pictures. All rights reserved.
 
 ## Chasing His North Star
