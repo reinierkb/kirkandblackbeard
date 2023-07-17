@@ -1,14 +1,17 @@
 ---
 title: Captain Evaluated - Steve Zissou
 date: 2023-07-14T15:20
-socialPreview: Captain Evaluated - Steve Zissou, can fictional heroes help us lead in the 21st century?
+socialPreview: Captain Evaluated - Steve Zissou, how fictional heroes can help us lead in the 21st century
 author: David Linssen
 ---
 
 <p><img src="/images/Zissou-sub-interior-edit.jpg" class="img-home" width="600" alt="Team Zissou in the mini-sub, chasing the Jaguar Shark"></p> © 2004 Touchstone Pictures. All rights reserved.
 
+## Captains Evaluated
+“Leading teams—into the unknown or on a strict mission—has been the stuff stories are made of for ages. From crossing the Rubicon to heisting a bank, we at Kirk & Blackbeard love teams accomplishing the impossible. So we thought it would be interesting to explore how historical or fictional leaders would hold up today leading digital teams. Steve Zissou—the protagonist of Wes Anderson’s “The Life Aquatic with Steve Zissou”—has been one of my heroes since the movie came out in 2004. Let’s explore how he holds up against today’s standards.”
+
 ## Chasing His North Star
-If you don’t look close enough, you might mistake Steve Zissou—the protagonist of Wes Anderson’s “The Life Aquatic with Steve Zissou”—for a washed-up has-been. Sure, he seems to suffer a bit of misfortune: his most recent documentary was ill-received, he has just lost his best friend Esteban, and there are all kinds of troubles financing his upcoming expedition. But this never stops him from moving forward, chasing his North Star and inspiring a global audience with the wonders of deep-sea life—embodied in the quest to find the mythical Jaguar Shark that ate his friend.
+If you don’t look close enough, you might mistake Steve Zissou for a washed-up has-been. Sure, he seems to suffer a bit of misfortune: his most recent documentary was ill-received, he has just lost his best friend Esteban, and there are all kinds of troubles financing his upcoming expedition. But this never stops him from moving forward, chasing his North Star and inspiring a global audience with the wonders of deep-sea life—embodied in the quest to find the mythical Jaguar Shark that ate his friend.
 
 <p><img src="/images/Zissou-meeting-hennessey.jpg" class="img-home" width="600" alt="Team Zissou in a meeting to prepare the mission"></p> © 2004 Touchstone Pictures. All rights reserved.
 
