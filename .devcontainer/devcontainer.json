@@ -4,7 +4,7 @@
     "forwardPorts": [
         3000
     ],
-	"postCreateCommand": "yarn install",
+	"postCreateCommand": "./.devcontainer/postCreateCommand.sh",
 	"customizations": {
 		"vscode": {
 			"extensions": [
