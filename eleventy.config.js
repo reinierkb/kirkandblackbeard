@@ -22,6 +22,7 @@ module.exports = function (eleventyConfig) {
 
     // Passthrough static files
     eleventyConfig.addPassthroughCopy({ "./src/static": "." });
+    eleventyConfig.addPassthroughCopy({ "./src/admin/config.yml": "./admin/config.yml"});
     eleventyConfig.addPassthroughCopy('./src/images/**/*.gif');
 
     // Passthrough fonts (also needed at ./fonts for font.conf)
