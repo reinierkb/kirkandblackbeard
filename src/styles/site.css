@@ -158,6 +158,10 @@ img, svg {
         padding-right: 0.3em;
         padding-left: 0.3em;
     }
+
+    figcaption {
+        @apply text-sm pt-1;
+    }
 }
 
 @layer components {
