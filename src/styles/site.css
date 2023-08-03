@@ -163,7 +163,7 @@ img, svg {
         @apply text-sm pt-1;
     }
 
-    figure {
+    figure.img-content {
         @apply mb-4;
     }
 }
