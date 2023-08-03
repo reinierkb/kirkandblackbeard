@@ -8,7 +8,7 @@ tags:
   - captains
 ---
 
-In a galaxy far far away, on a planet with twelve very unique pentagonal shaped seas, there is a captain sailing the Emerald Sea. A sea full of spores where each single spore contains an enormous amount of power which is released when it touches water. And on this treacherous see, where rain storms are not frequent but definitely not absent, Tress is the captain of the Two Cups.
+In a galaxy far far away, on a planet with twelve very unique pentagonal shaped seas, there is a captain sailing the Emerald Sea. A sea made out of spores and where each single spore contains an enormous amount of power which is released when it touches water. And on this treacherous see, where rain storms are not frequent but definitely not absent, Tress is the captain of the Two Cups.
 
 <figure><img src="/images/tress.jpg" width="600" alt="Tress on the Emerald Sea"><figcaption>Artwork by Howard Lyon.</figcaption></figure>
 
@@ -16,9 +16,9 @@ She was not always a captain though. She started her life as a simple peasant wh
 
 Tress is the main character of the book Tress of the Emerald Sea, a book written by Brandon Sanderson. Brandon wrote it as a hobby project for his wife during the Covid lockdowns. For his fans, this was a total surprise. And he not only wrote this book, he also wrote three others in secret. With these books Brandon created the most successful Kickstarter of all time.
 
-The story of Tress is nowhere near my personal story, but what we have in common is that we both stumbled upon our profession accidentally. It was never my career choice to become a product manager. I didn't see a career path, I saw need within organisations which I could fulfil. I became an accidental product manager and I quite like it. Tress never had the desire to become a captain, but circumstances eventually compelled her to take on the role she was made to be.
+The story of Tress is nowhere near my personal story, but what we _have_ in common is that we both stumbled upon our profession accidentally. It was never my career choice to become a product manager. **I didn't see a career, I saw need.** I became an accidental product manager and I quite like it. Tress never had the desire to become a captain, but circumstances eventually compelled her to take on the role she was made to be.
 
-Tress's origin story draws inspiration from the movie "The Princess Bride." Brandon Sanderson asked himself "What if Buttercup (the actual hero of the movie) was more proactive?" And if you want find out what a more proactive Buttercup would do, [you have to RAFO](https://faq.brandonsanderson.com/knowledge-base/what-is-rafo/).
+Tress's origin story draws inspiration from the movie _The Princess Bride._ Brandon Sanderson asked himself "What if Buttercup (the actual hero of the movie) was more proactive?" And if you want find out what a more proactive Buttercup would do, [you have to RAFO](https://faq.brandonsanderson.com/knowledge-base/what-is-rafo/).
 
 <figure><img src="/images/tress-book-cover.jpg" width="600" alt="Tress book cover"><figcaption>Tress and the Emerald Sea book cover</figcaption></figure>
 
