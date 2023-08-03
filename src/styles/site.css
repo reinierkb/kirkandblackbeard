@@ -162,6 +162,10 @@ img, svg {
     figcaption {
         @apply text-sm pt-1;
     }
+
+    figure {
+        @apply mb-4;
+    }
 }
 
 @layer components {
