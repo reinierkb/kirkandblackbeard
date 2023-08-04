@@ -4,7 +4,7 @@ title: Reinier Ladan
 eleventyExcludeFromCollections: true
 ---
 
-As a UX Designer by training and Product Manager by experience, Reinier comes preloaded with strong analytical skills, a toolbox full of design methods and a lot of real-world experience. Basically, he’s the embodiment of the user voice in any development process: determined to make stuff as simple and accessible as possible. He absorbs the details of goals and challenges as a sponge, figuring out why they exist, identifying which ones should be prioritized and determining how to solve them with the team. This way, he ensures the most value for customers, clients, future generations, our climate, you name it. 
+As a UX Designer by education and Product Manager by experience, Reinier comes preloaded with strong analytical skills, a toolbox full of design methods and a lot of real-world experience. Basically, he’s the embodiment of the user voice in any development process: determined to make stuff as simple and accessible as possible. He absorbs the details of goals and challenges as a sponge, figuring out why they exist, identifying which ones should be prioritized and determining how to solve them with the team. This way, he ensures the most value for customers, clients, future generations, our climate, you name it. 
 
 ### Expertise
 product management, UX/CX design, prototyping, agile practice, facilitation
@@ -20,9 +20,9 @@ product management, UX/CX design, prototyping, agile practice, facilitation
 Schiphol Airport, NPO, DPG Media, Backbase, NRC, NLZiet, Liberty Global, Fox Sports
 
 ### Side projects:
-- Editor in chief FYI newsletter
-- Tinkering with Qweighteen keymap for optimal typing comfort
-- Always upgrading his vegetarian chef skills
+- Editor in chief [FYI newsletter](https://reinier.fyi)
+- Tinkering with the [Qweighteen keymap](https://reinierladan.nl/blog/2023/qweighteen-keymap/) for optimal typing comfort
+- Always working on his vegetarian chef skills
 
 [Web](https://reinierladan.nl)
 [LinkedIn](https://www.linkedin.com/in/reinier-ladan/)
