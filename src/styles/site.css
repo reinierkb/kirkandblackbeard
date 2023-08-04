@@ -4,7 +4,6 @@
 
 img, svg {
     display: inline-block;
-    margin-bottom: 1em;
 }
 
 @layer base {
@@ -51,6 +50,9 @@ img, svg {
         width: 100%;
         @apply font-kb-body;
     }
+}
+
+@layer components {
 
     p {
         @apply mb-4;
@@ -164,12 +166,10 @@ img, svg {
         @apply text-sm pt-1;
     }
 
-    figure.img-content {
-        @apply mb-4;
+    figure {
+        @apply mb-8;
     }
-}
 
-@layer components {
     .site-intro {
         @apply border border-kb-dark-tint bg-kb-light-tint/20 p-4;
     }
