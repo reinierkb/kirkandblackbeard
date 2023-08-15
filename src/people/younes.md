@@ -13,15 +13,12 @@ Tech lead, (interim-) CTO, software architect, tech consultancy
 ### Three things Younes worked on:
 * [Symphony.live](https://symphony.live/), a Netflix-like streaming service for classical music lovers, offering concerts from the global top 10 orchestras to a growing base of fans across the world as a monthly subscription. Client: Symphony Media, Younes lead two development teams building the web-, mobile- and TV apps and all the marketing funnels leading into it.
 * [Elsevier Health Hubs](https://elsevier.health/en-US/home), a web app bundling evidence based best practices on how to diagnose, treat and prevent COVID19. This required collecting topical info from multiple internal data silos and representing it intuitively. Later, it evolved into a content marketing hub for multiple topics. Younes led the team building it.
-* …
-
-> Younes is a great person—Nobody, CEO at Nothing.com  
-
+* [Leen Bakker](https://www.leenbakker.nl/) & [Kwantum](https://www.kwantum.nl/), a multi-tenant, multilingual webshop. Facilitating the clients wish to reduce cost and improve agility and Time To Market the original Leen Bakker site was rewritten to one multi-tenant system facilitating both webshops. Younes has led two development teams in realizing this project.
 ### Other clients/employers:
-…
+eBay, GfK, Edenspiekermann, Task Analytics, Bodem & Ontwikkeling, Global Infrastructure Institute, Alcon, Portbase, GO Remarketing Solutions, Video van Sint, Ketjapp, Bankai.
 
 
-[LinkedIn](https://www.linkedin.com/in/laurens-de-knijff/)
+[LinkedIn](https://www.linkedin.com/in/younesriad/)
 
 
 
