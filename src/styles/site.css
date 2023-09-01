@@ -6,7 +6,7 @@ img, svg {
     display: inline-block;
 }
 
-@layer base {
+
     @font-face {
         font-family: "SpaceGrotesk";
         src: url("/fonts/SpaceGrotesk-Regular.ttf");
@@ -50,12 +50,12 @@ img, svg {
         width: 100%;
         @apply font-kb-body;
     }
-}
+
 
 @layer components {
 
     p {
-        @apply mb-4;
+        margin-bottom: 1rem;
     }
 
     header {
