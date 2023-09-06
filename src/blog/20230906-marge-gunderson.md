@@ -21,10 +21,6 @@ Marge’s strategic thinking isn’t just about following footprints in the snow
 
 <figure><img src="/images/marge-slightly-impressed.jpeg" class="img-home" width="600" alt="Marge slightly impressed"><figcaption>© 1996 Gramercy Pictures. All rights reserved.</figcaption></figure>
 
-## Perseverance with Pancakes
-
-Ever seen a pregnant police chief chase down criminals in a blizzard? That’s Marge for you! Her never-give-up attitude, coupled with a love for a good diner breakfast, teaches us that perseverance can be served with a side of syrup. Who says determination can’t be delicious?
-
 ## Adaptable as a Snowman in Spring
 Every case is unique to Marge, and she knows how to adapt. Whether it’s a change in weather or a change in suspects, Marge’s flexibility is a gentle reminder that rigidity can be a barrier to success. So next time you’re stuck in a rut, just think: What would Marge do? (Hint: Probably grab a coffee and figure it out.)
 
