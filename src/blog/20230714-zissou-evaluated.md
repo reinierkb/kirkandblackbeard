@@ -1,6 +1,6 @@
 ---
 title: Captain Evaluated - Steve Zissou
-description: "Unlock leadership lessons from Fargo's Marge Gunderson—cool-headed cop with a side of quirks"
+description: "Captain Steve Zissou evaluated: what we can learn from from fictional leaders"
 date: 2023-07-14T15:20
 socialPreview: Captain Evaluated - Steve Zissou, how fictional heroes can help
   us lead in the 21st century

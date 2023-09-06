@@ -1,9 +1,9 @@
 ---
 title: Marge, Leading with a Badge, a Baby Bump, and a Big Heart
-description: How one of the main characters from the movie Fargo is an inspiration for leadership.
+description: Unlock leadership lessons from Fargo's Marge Gunderson—cool-headed cop with a side of quirk.
 date: 2023-09-06T10:16
 socialPreview: Discover quirky leadership wisdom from Fargo's Marge Gunderson. Cool, strategic, and always human.
-author: Younes Riad, in collaboration with ChatGPT.
+author: Younes Riad & ChatGPT
 tags:
   - captains
 ---

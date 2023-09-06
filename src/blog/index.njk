@@ -19,6 +19,6 @@ pagination:
         {% if post.data.image %}
             <p><img src="{{ post.data.image }}" alt="{{ post.data.imageAlt }}"/></p>
         {% endif %}
-        <div>{{ post.templateContent | safe }}</div>
+        <div>{{ post.data.description | safe }}</div>
     </article>
 {%- endfor -%}
