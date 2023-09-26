@@ -1,7 +1,7 @@
 ---
 title: Captain Evaluated - Steve Zissou
 description: "Captain Steve Zissou evaluated: what we can learn from from fictional leaders"
-date: 2023-07-14T15:20
+date: 2023-09-25T15:20
 socialPreview: Captain Evaluated - Steve Zissou, how fictional heroes can help
   us lead in the 21st century
 author: David Linssen

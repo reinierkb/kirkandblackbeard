@@ -1,7 +1,7 @@
 ---
 title: Tress, the accidental captain of the Two Cups
 description: RAFO about how the main character of the most successful Kickstarter of all time became an accidental captain.
-date: 2023-08-03T16:25
+date: 2023-09-24T16:25
 socialPreview: Tress never had the desire to become a captain, but circumstances eventually compelled her to take on the role she was made to be.
 author: Reinier Ladan
 tags:
