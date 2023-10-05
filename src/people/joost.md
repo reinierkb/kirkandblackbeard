@@ -19,7 +19,6 @@ Service design, Innovation strategy, co-creation, stakeholder management, UX str
 * Leveraging information and technology to improve railway capacity at [ProRail/Dutch Railways](https://www.edenspiekermann.com/case-studies/ns-pro-rail/)
 * Redesigning [Elsevier](https://www.edenspiekermann.com/case-studies/elsevier-reaxys/)’s Service Platform for Scientific Publications
 
-
 ### Other clients:
 ING Bank, World Economic Forum, Berlin Brandenburg Airport, Swiss Railways, NN Group, TOTO
 
