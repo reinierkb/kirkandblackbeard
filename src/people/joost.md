@@ -31,8 +31,3 @@ ING Bank, World Economic Forum, Berlin Brandenburg Airport, Swiss Railways, NN G
 - Co-host Glitch Podcast
 
 [LinkedIn](https://www.linkedin.com/in/joostholthuis/)
-
-
-
-
-
