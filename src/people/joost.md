@@ -16,7 +16,7 @@ Over the years Joost has worked on a great number of mobility, financial and dat
 When Joost isn’t solving his clients’ issues, you can find him tinkering with physical things. Rebuilding his motorcycle, for instance.
 
 ### Expertise: 
-Service design, Innovation strategy, co-creation, stakeholder management, UX strategy
+Service design, innovation strategy, co-creation, stakeholder management, UX strategy
 
 ### Three things Joost worked on:
 * Introducing a truly passenger-centric user flow, both physical and digital at [Amsterdam Airport Schiphol](https://www.edenspiekermann.com/case-studies/amsterdam-airport-schiphol/)
