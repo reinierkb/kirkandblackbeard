@@ -20,6 +20,12 @@ Service design, Innovation strategy, co-creation, stakeholder management, UX str
 ### Other clients:
 ING Bank, World Economic Forum, Berlin Brandenburg Airport, Swiss Railways, NN Group, TOTO
 
+### Side projects:
+- Guest Lecturer, Delft University
+- Co-host Glitch Podcast
+
+[LinkedIn](https://www.linkedin.com/in/joostholthuis/)
+
 
 
 
