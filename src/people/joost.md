@@ -13,9 +13,10 @@ Over the years Joost has worked on a great number of mobility, financial and dat
 Service design, Innovation strategy, co-creation, stakeholder management, UX strategy
 
 ### Three things Joost worked on:
-* Introducing a truly passenger-centric user flow, both physical and digital at **Amsterdam Airport Schiphol**
-* Leveraging information and technology to improve railway capacity at **ProRail**/Dutch Railways
-* Redesigning **Elsevier**’s Service Platform for Scientific Publications.
+* Introducing a truly passenger-centric user flow, both physical and digital at [Amsterdam Airport Schiphol](https://www.edenspiekermann.com/case-studies/amsterdam-airport-schiphol/)
+* Leveraging information and technology to improve railway capacity at [ProRail/Dutch Railways](https://www.edenspiekermann.com/case-studies/ns-pro-rail/)
+* Redesigning [Elsevier](https://www.edenspiekermann.com/case-studies/elsevier-reaxys/)’s Service Platform for Scientific Publications
+
 
 ### Other clients:
 ING Bank, World Economic Forum, Berlin Brandenburg Airport, Swiss Railways, NN Group, TOTO
