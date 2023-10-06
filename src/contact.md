@@ -5,9 +5,17 @@ eleventyExcludeFromCollections: true
 ---
 
 ## Kirk & Blackbeard Coöperatie U.A.
-Kropaarstraat 1B/1D     
-1032 LA Amsterdam     
 [captain@kirkandblackbeard.com](mailto:captain@kirkandblackbeard.com?subject=Calling%20Kirk) 
+
+### Amsterdam
+Kropaarstraat 1B/1D     
+1032 LA Amsterdam
+
+### Eindhoven
+Torenallee 20    
+5617 BC Eindhoven
+
+<br />
 
 Registered at the Dutch Chamber of Commerce: 86915304    
 EU TaxID: NL864145445B01.    
