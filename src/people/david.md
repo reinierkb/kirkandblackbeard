@@ -4,7 +4,7 @@ title: David Linssen
 eleventyExcludeFromCollections: true
 ---
 
-David is a 100% bullshit-free leader and always committed to make real and lasting success happen. Everywhere he operates, he always makes sure to gain a deep understanding of the domain in order to consistently deliver high-quality results. Once he has that deep understanding, he uses it to elevate your organization instead of hitting you on the head with it. David loves facilitating through unorthodox means, creating a safe environment for creativity and experimentation. Expect to find yourself acting out a user need. Not only is he humble and approachable, he also makes sure that his team has the positive energy to make magical things happen. Even if it's a hell of a job, he makes it look heavenly easy to accomplish.
+David is a 100% bullshit-free leader, committed to make real and lasting success happen. As a leader, he always makes sure to gain a deep understanding of the domain in order to consistently deliver high-quality results. Once he has that deep understanding, he uses it to elevate your organization instead of hitting you on the head with it.  David loves facilitating through unorthodox means, creating a safe environment for creativity and experimentation. Expect to find yourself acting out a user need. David always makes sure that his team has the positive energy to make magical things happen. Even if it's a hell of a job, he makes it look heavenly easy to accomplish.
 
 ### Expertise: 
 interim leadership, product management, online/marketing/digital/IT strategy development, facilitation, executive coaching.
