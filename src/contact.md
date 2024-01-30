@@ -8,8 +8,8 @@ eleventyExcludeFromCollections: true
 [captain@kirkandblackbeard.com](mailto:captain@kirkandblackbeard.com?subject=Calling%20Kirk) 
 
 ### Amsterdam
-Kropaarstraat 1B/1D     
-1032 LA Amsterdam
+Asterweg 109     
+1031 HM Amsterdam
 
 ### Eindhoven
 Torenallee 20    
