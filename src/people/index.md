@@ -14,7 +14,5 @@ These are the people of Kirk & Blackbeard:
 
 ## [David Linssen](/people/david/)
 
-## [Laurens de Knijff](/people/laurens/)
-
 ## [Younes Riad](/people/younes/)
 
