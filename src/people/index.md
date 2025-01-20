@@ -10,6 +10,8 @@ These are the people of Kirk & Blackbeard:
 
 ## [Joost Holthuis](/people/joost/)
 
+## [Laura Inzaurralde](/people/laura/)
+
 ## [Mark de Kock](/people/mark/)
 
 ## [Reinier Ladan](/people/reinier/)
